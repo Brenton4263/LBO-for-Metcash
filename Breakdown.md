@@ -1,7 +1,7 @@
-//Company overview
-Metacash 
+## Company overview
+Metcash is an Australian wholesale distributor listed on ASX serving independent grocery, liquor, and hardware retailers through a network of well-known retail banners. Main competitors are supermarket chains (Coles, Woolworths, ALDI) and hardware retailers such as Bunnings. Metcash’s food and liquor operations are generating consistent revenue and cash flow, although tobacco related channels have been under pressure from changing regulations. The hardware segment is growing faster and delivering improving profitibility.
 
-//Results
+## Results
 Bullish Scenario:
 MOIC: 3.3x
 IRR: 26.7%
@@ -14,8 +14,8 @@ Bearish Scenario:
 MOIC: 1.7x
 IRR: 10.9%
 
-//Recommendation 
-Metacash appears to be an attractive LBO investment based on calculated returns, it has over 15% IRR which is the benchmark of LBO deals. Even in a bearish scenario with no growth and reduced EBITDA multiple, the LBO still returns a respectable IRR.
+## Recommendation 
+Metcash appears to be an attractive LBO investment based on calculated returns, it has over 15% IRR which is the benchmark of LBO deals. Even in a bearish scenario with no growth and reduced EBITDA multiple, the LBO still returns a respectable IRR.
 
 Posotives:
 -low capital expenditure 
@@ -25,7 +25,7 @@ Risks:
 -Vulnerable to price war with Coles and Woolworths
 -Tabacco decline due to regualtions could affect profit
                   
-//Assumptions
+## Assumptions
 Data taken from 2025 financial report:
 https://www.metcash.com/investor-centre/annual-reports/
 
@@ -50,11 +50,8 @@ Revenue Growth= 2%
 EBTIDA Margin = 0%
 Exit multiple = 8x
 
-//Transaction details
 
-
-
-// Improvements
+## Improvements
 -More accurate operating assumptions 
 -Compare perfomance of multiple capital structures
 -Add more options in capital structures
